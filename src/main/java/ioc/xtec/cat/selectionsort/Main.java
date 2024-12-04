@@ -51,6 +51,7 @@ public class Main {
 
                 System.out.print("Array ordenat:");
                 printArray(array);
+                System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
 
             } catch (IllegalArgumentException e) {
                 System.out.println("Error: " + e.getMessage());
